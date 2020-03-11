@@ -1,8 +1,10 @@
 <template>
-  <h2>APP</h2>
+  <div>
+    <h2>APP</h2>
+  </div>
 </template>
 <script>
 export default {
-  
+
 }
 </script>
